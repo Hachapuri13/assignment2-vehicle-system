@@ -66,6 +66,7 @@ java Main
 ## Program Output
 
 ![Program output](docs/screenshots/program.png)
+
 Screenshot demonstrating:
 
 - Engine start and stop for different vehicle types
